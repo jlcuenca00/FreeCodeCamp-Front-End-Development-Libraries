@@ -1,5 +1,0 @@
-@for $i from 1 to 6 {
-	.text-#{$i} {
-		font-size: 15px * $i;
-	}
-}
